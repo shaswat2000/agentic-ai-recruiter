@@ -38,7 +38,7 @@ if st.button("Schedule Meet Only"):
     if scheduled_datetime <= now:
         st.error("Please select a time in the future!")
     else:
-        link = "https://meet.google.com/new"  # Replace if needed
+        link = "https://meet.google.com/new"  
         st.success(f"✅ Meet scheduled for {scheduled_datetime.strftime('%A, %d %B %Y at %I:%M %p')}")
         st.markdown(f"🔗 [Join here]({link})")
 
@@ -47,7 +47,6 @@ if st.button("Schedule Meet Only"):
         with st.spinner(f"Waiting until {scheduled_datetime.strftime('%I:%M %p')} to start the bot..."):
             time.sleep(wait_seconds)
 
-        # Launch your main process
         subprocess.Popen(["python", "meet_bot_pipeline.py"], cwd=os.getcwd())
         st.success("🚀 Meet bot started!")
 
