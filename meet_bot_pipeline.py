@@ -247,7 +247,7 @@ def run_loop(jd_text, meet_url):
 
 if __name__ == "__main__":
     jd = open("data/job_description.txt").read()
-    # meet_url = "https://meet.google.com/new"
-    meet_url = "https://meet.google.com/wrp-rzmy-ezn"
+    meet_url = "https://meet.google.com/new"
+    # meet_url = "https://meet.google.com/wrp-rzmy-ezn"
     # state = RecruiterState(job_description=jd)
     run_loop(jd, meet_url)
