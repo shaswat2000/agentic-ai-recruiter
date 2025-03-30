@@ -1,0 +1,12 @@
+streamlit
+pyttsx3
+sounddevice
+faster-whisper
+langchain
+langgraph
+openai
+google-api-python-client
+google-auth
+pydantic
+langchain-community
+selenium
