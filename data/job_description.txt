@@ -1,0 +1,31 @@
+Responsibilities
+
+As an intern you may be working on one of more of the areas below:
+
+Assisting in performance testing for multi-tier enterprise Java-based applications. 
+Learning and applying JMeter to conduct performance and load tests. 
+Writing basic monitoring and data extraction scripts using JavaScript or Bash. 
+Supporting the analysis of performance data to identify and troubleshoot bottlenecks. 
+Exploring continuous integration and deployment (CI/CD) processes using Jenkins. 
+Gaining exposure to container technologies like Docker and Kubernetes. 
+Collaborating with engineers to develop test automation solutions for improving software reliability.
+
+
+Qualifications:
+
+Currently pursuing a Bachelor’s degree in Computer Science, Software Engineering, Information Technology, or a related field.
+Interest in performance testing, automation, and cloud technologies.
+Some familiarity with JMeter, or a willingness to learn.
+Basic understanding of JavaScript, Bash scripting, or Java (Optional: Exposure to Java is a plus).
+Strong problem-solving skills, attention to detail, and an eagerness to learn.
+Excellent verbal and written communication skills.
+
+
+What you will learn:
+
+Application Architecture: Understanding the interaction between UI, application, and database layers. 
+Performance Testing & QA: Best practices for software performance evaluation. 
+Continuous Integration & Deployment (CI/CD): Working with Jenkins to automate testing. 
+JMeter Expertise: Hands-on experience with industry-standard performance testing tools. 
+Scripting & Automation: Writing basic JavaScript/Bash scripts to enhance testing. 
+(Optional: Exposure to Java programming fundamentals.)
