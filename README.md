@@ -5,6 +5,8 @@ Description:
 -------------
 This project implements an agentic recruiter bot capable of conducting multi-turn voice-based interviews over Google Meet. It uses natural language interaction, question-answering, and summarization—all orchestrated through LangGraph state machines.
 
+Link to demo: https://drive.google.com/file/d/1OkBt_9zG5Ud300ovjK-B5pXZP4FddEV5/view?usp=drive_link
+
 Dependencies:
 -------------
 - Python 3.10+
